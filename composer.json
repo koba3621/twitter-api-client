@@ -1,0 +1,15 @@
+{
+    "name": "koba3621/twitter-like-follow",
+    "authors": [
+        {
+            "name": "kobayashi",
+            "email": "hirokoba92@gmail.com"
+        }
+    ],
+    "require": {},
+		"autoload": {
+			"psr-4": {
+				"Koba\\": "src"
+			}
+		}
+}
