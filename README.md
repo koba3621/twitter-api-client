@@ -5,5 +5,5 @@
 
 ## 概要
 - .env.exampleを.envへファイル名を変更し、Twitter Developerから確認できるご自身のKey, Token情報をご記入ください。
-- example_index.phpに実行するコード例を記載していますので、改変して実装いただければと思います。
+- src/example_index.phpに実行するコード例を記載していますので、改変して実装いただければと思います。
 - .gitignoreに.envを追加していますので、そのままremote repositoryにpush頂いても、認証情報系はuploadされません
